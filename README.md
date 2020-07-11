@@ -1,16 +1,36 @@
-### Hi there 👋
+```
+ $ uname
+ a3darekar
 
-<!--
-**a3darekar/a3darekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ uname -n
+Amey Darekar
 
-Here are some ideas to get you started:
+$ groups
+a3darekar sudo http devel 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ ./about.sh
+PERSONAL
+	NAME=Amey Chandrakant Darekar
+	DOB=Fri Apr 24 19XX 
+
+INTERESTS
+	LANG=python, php, js, C, shell, Java, r-lang
+	TECHNOLOGIES=Web devel, Data Science, Mobile devel, DevOps
+	FRAMEWORKS=Django, laravel, flask, Android, Vue.js, node, Angular, React, Tawilind
+
+HOBBIES
+	Reading, Board Games, Documentaries, Camping
+
+$ ./get-in-touch.sh
+CONTACT
+	MAIL=a3darekar.gmail.com | darekar.amey@gmail.com
+
+SOCIAL
+	GITHUB=a3darekar
+	TWITTER=a3darekar
+	WEB=about.me/a3darekar
+	LINKEDIN=linkedin.com/in/a3darekar
+	REDDIT=reddit.com/user/Kn0wH3Re
+
+$ logout
+```
