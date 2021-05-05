@@ -1,5 +1,5 @@
 ```
- $ uname
+ $ whoami
  a3darekar
 
 $ uname -n
@@ -10,8 +10,8 @@ a3darekar sudo http devel
 
 $ ./about.sh
 PERSONAL
-	NAME=Amey Chandrakant Darekar
-	DOB=Fri Apr 24 19XX 
+	NAME=Amey Darekar
+	DOB=Fri Apr 24 19XX
 
 INTERESTS
 	LANG=python, php, js, C, shell, Java, r-lang
