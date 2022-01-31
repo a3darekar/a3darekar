@@ -13,10 +13,10 @@ PERSONAL
 	NAME=Amey Darekar
 	DOB=Fri Apr 24 19XX
 
-INTERESTS
+SKILLS
 	LANG=python, php, js, C, shell, Java, r-lang
 	TECHNOLOGIES=Web devel, Data Science, Mobile devel, DevOps
-	FRAMEWORKS=Django, laravel, flask, Android, Vue.js, node, Angular, React, Tawilind
+	FRAMEWORKS=Django, flask, laravel, Vue.js, node, Angular, Android, React, Tawilind
 
 HOBBIES
 	Reading, Board Games, Documentaries, Camping
@@ -26,11 +26,10 @@ CONTACT
 	MAIL=a3darekar.gmail.com | darekar.amey@gmail.com
 
 SOCIAL
-	GITHUB=a3darekar
-	TWITTER=a3darekar
-	WEB=about.me/a3darekar
-	LINKEDIN=linkedin.com/in/a3darekar
-	REDDIT=reddit.com/user/Kn0wH3Re
+	GITHUB=[a3darekar](github.com/a3darekar)
+	TWITTER=[a3darekar](twitter.com/a3darekar)
+	WEB=[about.me/a3darekar](about.me/a3darekar)
+	LINKEDIN=[linkedin.com/in/a3darekar](linkedin.com/in/a3darekar)
 
 $ logout
 ```
