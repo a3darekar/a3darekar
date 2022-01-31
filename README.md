@@ -26,10 +26,10 @@ CONTACT
 	MAIL=a3darekar.gmail.com | darekar.amey@gmail.com
 
 SOCIAL
-	GITHUB=[a3darekar](github.com/a3darekar)
-	TWITTER=[a3darekar](twitter.com/a3darekar)
-	WEB=[about.me/a3darekar](about.me/a3darekar)
-	LINKEDIN=[linkedin.com/in/a3darekar](linkedin.com/in/a3darekar)
+	GITHUB=github.com/a3darekar
+	TWITTER=twitter.com/a3darekar
+	WEB=about.me/a3darekar
+	LINKEDIN=linkedin.com/in/a3darekar
 
 $ logout
 ```
